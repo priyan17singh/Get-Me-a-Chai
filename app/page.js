@@ -72,7 +72,7 @@ export default function Home() {
       <div className="bg-white opacity-5 h-1"></div>
       <div className="text-white container mx-auto md:pb-24 md:pt-14 pt-7 flex flex-col justify-center items-center">
         <h2 className="text-2xl font-bold text-center md:mb-4">Learn about us.</h2>
-        <div className="w-[90%] h-[30vh] md:w-[50%] md:h-[40vh] ">
+        <div className="w-[90%] h-[30vh] md:w-[50%] md:h-[40vh] md:mb-4">
           <video
             src="/Company.mp4"
             autoPlay
