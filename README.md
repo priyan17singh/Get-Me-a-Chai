@@ -9,15 +9,13 @@ Support creators you love while helping them do what they’re passionate about,
 
 ## 🌐 Live Demo  
 
-👉 [**Try It Here**](https://your-deployment-link.com)  
-*(Replace with your live app URL — e.g., Vercel, Netlify, or Render.)*
+👉 [**Try It Here**](https://get-me-a-chai-9cu3.vercel.app/)  
 
 ---
 
 ## 📸 Preview  
 
-![Get Me a Chai Preview](./screenshot.png)  
-*(Place a screenshot of your homepage named `screenshot.png` in your repo root.)*
+![Get Me a Chai Preview](./public/preview.png)  
 
 ---
 
